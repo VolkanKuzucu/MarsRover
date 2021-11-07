@@ -1,0 +1,16 @@
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.exe
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.deps.json
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.runtimeconfig.json
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.runtimeconfig.dev.json
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.dll
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\ref\MarsRoverVolkan.dll
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\bin\Debug\net5.0\MarsRoverVolkan.pdb
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.csproj.AssemblyReference.cache
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.AssemblyInfoInputs.cache
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.AssemblyInfo.cs
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.csproj.CoreCompileInputs.cache
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.dll
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\ref\MarsRoverVolkan.dll
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.pdb
+C:\Users\volkan.kuzucu.SCSTR\Desktop\Project\MarsRoverVolkan\MarsRoverVolkan\obj\Debug\net5.0\MarsRoverVolkan.genruntimeconfig.cache

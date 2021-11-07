@@ -1,0 +1,44 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/Filtering/IncludeCoverageFilters/=_002A_003B_002A_003B_002A_003B_002A/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\volkan.kuzucu.SCSTR\AppData\Local\JetBrains\Rider2021.2\resharper-host\temp\Rider\vAny\CoverageData\_MarsRoverVolkan.704935173\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=51e4cfcc_002D61e8_002D47d4_002Db03f_002Dcb66f7caf536/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Rover_RightCommandProcess_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.RoverTest.Rover_RightCommandProcess_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.RoverTest.Rover_MoveCommandProcess_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5df98d1e_002D462c_002D49c5_002Da733_002Dad7a2111e898/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RoverTestt" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.PlateauFactoryTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=72a6486f_002D2a56_002D4eb4_002Dbd97_002D73fecf72101b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Rover_Process_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.RoverTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0CC5D231-9F38-4298-9484-CE15AFBCC285::net5.0::IntegrationTest.RoverTest.RoverTestt&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d0c2e4d_002D6db8_002D4bc8_002Da021_002Dbf5cf644a409/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreatePlateau_CoordinateIsGreaterThanZero_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.Interface.PlateauFactoryTest.CreatePlateau_CoordinateIsGreaterThanZero_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.Interface.PlateauFactoryTest.CreatePlateau_CoordinateIsNotLessThanZero_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.Interface.PlateauFactoryTest.CreatePlateau_CoordinatesIsNotLessThanZero_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=87c4f043_002D0731_002D4b27_002Dad83_002D8452522c4b66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreatePlateau_CoordinatesIsNotLessThanZero_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.PlateauFactoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.RoverTest.Rover_Process_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bce4c5df_002D92ad_002D46fd_002D8204_002D63f01d0aba02/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreatePlateau_CoordinateIsNotLessThanZero_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.Interface.PlateauFactoryTest.CreatePlateau_CoordinateIsGreaterThanZero_Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1bdd637_002Df489_002D4c75_002Dae27_002D3086ac60e730/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RoverTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F18CFC02-FDC4-412B-A0E5-7A12C752A509::net5.0::Test.Abstract.RoverTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0CC5D231-9F38-4298-9484-CE15AFBCC285::net5.0::IntegrationTest.RoverIntegrationTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

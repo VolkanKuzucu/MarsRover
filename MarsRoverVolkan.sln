@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRoverVolkan", "MarsRoverVolkan\MarsRoverVolkan.csproj", "{282BB069-0F63-4BE5-933C-43D1E2C0294B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F18CFC02-FDC4-412B-A0E5-7A12C752A509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{0CC5D231-9F38-4298-9484-CE15AFBCC285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{282BB069-0F63-4BE5-933C-43D1E2C0294B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282BB069-0F63-4BE5-933C-43D1E2C0294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282BB069-0F63-4BE5-933C-43D1E2C0294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282BB069-0F63-4BE5-933C-43D1E2C0294B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18CFC02-FDC4-412B-A0E5-7A12C752A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18CFC02-FDC4-412B-A0E5-7A12C752A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18CFC02-FDC4-412B-A0E5-7A12C752A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18CFC02-FDC4-412B-A0E5-7A12C752A509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC5D231-9F38-4298-9484-CE15AFBCC285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC5D231-9F38-4298-9484-CE15AFBCC285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC5D231-9F38-4298-9484-CE15AFBCC285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC5D231-9F38-4298-9484-CE15AFBCC285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
